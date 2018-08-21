@@ -1,0 +1,1 @@
+﻿document.getElementById("300x250-1").style.display='none';

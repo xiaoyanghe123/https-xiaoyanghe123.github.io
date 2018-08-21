@@ -1,0 +1,1 @@
+if(window.location.href.indexOf("58food.com") != -1){document.domain = "127.0.0.1";}var DTPath = "./";var SKPath = "skin/MJSKIN_201705/";var MEPath = "member/";var EXPath = "extend/";var CKDomain = ".58food.com";var CKPath = "./";var CKPrex = "DKBMJ_";
